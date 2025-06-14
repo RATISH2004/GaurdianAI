@@ -107,7 +107,8 @@ Uses perceptual hashing (dhash) to group and remove duplicate faces, keeping onl
 - **Python threading:** For concurrent processing and maintenance.
 
 ---
-
+## Model Training
+refer transfer learning guide([https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html#]) to train your custom model
 ## Usage
 
 1. **Start the main video processing script**
@@ -155,7 +156,7 @@ python wepon3.py
 
 ## Authors
 
-- Gun Shy coders- Ratish R A, Ashman Sodhi, Adway Aghor, Aniket Singh, Chaarulatha, Shreya 
+- Gun Shy coders- Ratish R A, Ashman Sodhi, Adway Aghor, Aniket Singh, Chaarulatha, Shreya Samridhi
 - @NUS,GAIP,CORPORATE GURUKUL (JUNE-2025)
 
 
@@ -172,7 +173,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 - YOLOv8 by Ultralytics
 - OpenCV community
 - TensorFlow Object Detection API
-- [Any other libraries or contributors]
+- ([https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html#]) 
 
 ---
 
