@@ -1,0 +1,57 @@
+
+
+# Person tracking and re-identification
+deep-sort-realtime
+filterpy
+
+# Database and storage
+#sqlite
+sqlalchemy
+redis
+# Web interface and monitoring
+flask
+flask-socketio
+dash
+plotly
+
+# Communication and alerts
+twilio
+pynma
+plyer
+
+# Image and video processing
+pillow
+imageio
+moviepy
+numba
+
+# Performance monitoring
+psutil
+memory-profiler
+line-profiler
+
+# Configuration and utilities
+pyyaml
+python-dotenv
+tqdm
+colorama
+
+# API and integration
+requests
+websockets
+fastapi
+uvicorn
+# Security and encryption
+cryptography
+passlib
+
+
+
+# Multi-processing and concurrency
+multiprocessing-logging
+concurrent-futures
+
+# Development and testing
+pytest
+black
+flake8
