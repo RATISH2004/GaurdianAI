@@ -157,12 +157,12 @@ python wepon3.py
 ## Authors
 
 - GunShy Coders
-      Ratish R A
-      Ashman Sodhi
-      Adway Aghor
-      Aniket Singh
-      Chaarulatha
-      Shreya Samridhi
+     - Ratish R A
+     - Ashman Sodhi
+     - Adway Aghor
+     - Aniket Singh
+     - Chaarulatha
+     - Shreya Samridhi
 - GAIP June 2025, Corporate Gurukul, National University of Singapore
 
 
@@ -181,8 +181,5 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 - TensorFlow Object Detection API
 - ([https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html#]) 
 
----
-
-**Guardian AI — Guarding with Intelligence.**
 
 
