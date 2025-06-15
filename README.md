@@ -1,9 +1,9 @@
-# GaurdianAI
+# GuardianAI
 CCTV based firearm detection and suspect tracking
 
 
 
-**GAudian AI** is an integrated real-time face and weapon detection system designed for surveillance and security applications. It combines state-of-the-art deep learning (YOLOv8) for face and weapon detection with fast template-based face matching (ORB), providing robust, efficient monitoring and alerting.
+**Guardian AI** is an integrated real-time face and weapon detection system designed for surveillance and security applications. It combines state-of-the-art deep learning (YOLOv8) for face and weapon detection with fast template-based face matching (ORB), providing robust, efficient monitoring and alerting.
 
 ---
 
@@ -156,8 +156,14 @@ python wepon3.py
 
 ## Authors
 
-- Gun Shy coders- Ratish R A, Ashman Sodhi, Adway Aghor, Aniket Singh, Chaarulatha, Shreya Samridhi
-- @NUS,GAIP,CORPORATE GURUKUL (JUNE-2025)
+- GunShy Coders
+      Ratish R A
+      Ashman Sodhi
+      Adway Aghor
+      Aniket Singh
+      Chaarulatha
+      Shreya Samridhi
+- GAIP June 2025, Corporate Gurukul, National University of Singapore
 
 
 ---
@@ -168,7 +174,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-## Acknowledgments
+## References
 
 - YOLOv8 by Ultralytics
 - OpenCV community
@@ -177,9 +183,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-**GAudian AI — Guarding with Intelligence.**
+**Guardian AI — Guarding with Intelligence.**
 
----
-
-Let me know if you want to add more technical details, diagrams, or usage examples!
 
