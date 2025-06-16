@@ -161,7 +161,7 @@ python wepon3.py
      - Ashman Sodhi
      - Adway Aghor
      - Aniket Singh
-     - Chaarulatha
+     - Chaarulatha Jagan
      - Shreya Samridhi
 - GAIP June 2025, Corporate Gurukul, National University of Singapore
 
